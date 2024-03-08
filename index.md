@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Lead Scoring is such a powerful metric when it comes to quantifying the lead & it is nowadays used by every CRM. In this repository, we are going to take a look at the UpGrad lead scoring case study and see how can we solve this problem through several supervised machine learning models.
 
 ## Header 2
 
