@@ -4,12 +4,9 @@
 
 ### Marketing and Retail Analytics
 
+This project aims to find the underlying buying patterns of the customers of OList which is an e-commerce company that has faced some losses recently and they want to manage their inventory very well so as to reduce any unnecessary costs that they might be bearing. Now to be able to meet the demands of the customers, the company would need to store tons and tons of products in warehouses. Since storing these products adds to the costs that the company incurs, it is necessary for the organization to plan their inventory well.
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rahuldaskolkata/Marketing_and_Retail_Analytics)
-
-This is just a collection of topics and algorithms that in my opinion are interesting.
-
-It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
-The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
 
 <center><img src="assets/img/shopping-cart-logo-on-box-600nw-1761991598.webp"/></center>
 
