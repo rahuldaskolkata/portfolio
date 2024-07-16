@@ -34,4 +34,4 @@ Conducted EDA on a bank dataset involving data cleaning, standardization, and vi
 
 Accomplished an SQL-based analysis on the IMDB dataset, offering insights for RSVP Movies' such as top-star casting, release timing, market trends and competitor analysis to enhanced RSVP Movies' decision-making and market performance.
 
-<center><img src="images/text_classification.png"/></center>
+<center><img src="assets/img/dataset-cover.jpg"/></center>
